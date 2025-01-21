@@ -1,0 +1,19 @@
+Centrifuge X100, [1000-15000], RPM
+Spectrometer Alpha-300, [190-1100], nm
+Thermocycler TC-5000, [4-99], C
+Microplate Reader MRX, [0.0-4.0], OD
+Gas Chromatograph GC-2010, [0.1-1000], ppm
+Liquid Chromatograph LC-400, [0.01-500], ug/mL
+Mass Spectrometer MS-20, [50-2000], m/z
+pH Meter PH-700, [0-14], pH
+Conductivity Meter CM-215, [0-2000], uS/cm
+UV-Vis Spectrophotometer UV-2600, [0-3.5], Abs
+HPLC System HPLC-9000, [0.01-1000], mg/L
+FTIR Spectrometer FTIR-8400, [400-4000], 1/cm
+NMR Spectrometer NMR-500, [0-20], ppm
+X-Ray Diffractometer XRD-6000, [0-180], C
+Rheometer R-4500, [0.1-1000], Pa-s
+Titrator T-905, [0.001-10], M
+PCR Machine PCR-96, [0-40], Ct
+Ion Chromatograph IC-2100, [0.001-100], mM
+Four Ball FB-1000, [0.200 - 1.000], mm
